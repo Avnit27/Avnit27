@@ -1,20 +1,15 @@
 
-<!-- =====================================================
-     AVNIT SINGH | PROFESSIONAL CYBERFUNK README
-     No local image files required
-     ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:090B10,50:17142B,100:10251C&text=AVNIT%20SINGH&fontSize=56&fontColor=A3FF12&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20CO-FOUNDER%20%26%20COO%20%7C%20PRODUCT%20BUILDER&descSize=12&descAlignY=75&animation=fadeIn" width="100%" alt="Avnit Singh professional banner"/>
+# AVNIT SINGH
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=30&lines=Building+Technology-Driven+Solutions;Java+%7C+Web+Development+%7C+Databases;Exploring+Python%2C+AI+%26+Automation;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
+### Software Developer | Co-Founder & COO | Product Builder
 
-<br/>
+**Building technology-driven solutions at the intersection of software, business, and innovation.**
 
-<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GitHub-Avnit27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/avnit27/"><img src="https://img.shields.io/badge/Instagram-Follow-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" alt="Instagram"/></a>
+`JAVA` · `WEB DEVELOPMENT` · `DATABASES` · `AI & AUTOMATION`
+
+[GitHub](https://github.com/Avnit27) · [LinkedIn](https://www.linkedin.com/in/avnit-singh-b27006209/) · [Instagram](https://www.instagram.com/avnit27/)
 
 </div>
 
@@ -22,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), developer, and entrepreneur interested in building practical digital products and solving real-world problems.
+👋 I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), developer, and entrepreneur interested in building practical digital products and solving real-world problems.
 
 💻 My technical background includes Java, object-oriented programming, web development, databases, and application development. I've worked with Java and MySQL, explored Hibernate and JPA, and developed web-based products using PHP and modern JavaScript technologies.
 
@@ -30,7 +25,7 @@ I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), 
 
 🤖 I'm exploring Python, AI-powered applications, and automation while continuing to strengthen my software development skills.
 
-🎨 I also enjoy UI/UX design, creative problem-solving, and turning ideas into useful digital experiences.
+🎨 Beyond coding, I enjoy UI/UX design, creative problem-solving, and turning ideas into useful digital experiences.
 
 ---
 
@@ -38,25 +33,29 @@ I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), 
 
 <div align="center">
 
-**Programming & Web Development**
+### Programming & Web Development
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php&theme=dark&perline=6" alt="Programming and web development technologies"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php&theme=dark&perline=6" alt="Programming and web technologies"/>
 
-**Frameworks, Databases & Tools**
+### Frameworks, Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,postgres,git,github,figma&theme=dark&perline=8" alt="Frameworks databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,postgres,git,github,figma&theme=dark&perline=8" alt="Frameworks, databases, and tools"/>
 
 </div>
 
-**Java & Backend:** Java, OOP, JDBC, Hibernate, JPA, PHP
+**Languages & Backend:** Java, OOP, JavaScript, PHP, HTML, CSS
+
+**Java Technologies:** JDBC, Hibernate, JPA
 
 **Databases:** MySQL, PostgreSQL
 
-**Web Development:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+**Frameworks:** React, Next.js, Tailwind CSS
 
 **AI & Product Development:** Google Gemini API, AI-powered applications, automation exploration
 
 **Tools & Design:** Git, GitHub, Figma, Adobe tools, Canva, Netlify
+
+**Currently Learning:** Python and practical AI development
 
 ---
 
@@ -68,12 +67,12 @@ I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), 
 
 ### Wurkify
 
-<img src="https://img.shields.io/badge/EVENT_STAFFING-STARTUP-A3FF12?style=flat-square&labelColor=101014" alt="Event staffing startup"/>
+**Event Staffing Startup**
 
 A startup focused on connecting event organizers with gig workers for event staffing requirements.
 
-**My contributions**
-- Co-Founder & COO
+**My involvement**
+- Co-Founder & Chief Operating Officer
 - Business and event operations
 - Worker and organizer coordination
 - Web platform development
@@ -87,13 +86,13 @@ HTML · CSS · JavaScript · PHP · MySQL
 
 ### SensAI
 
-<img src="https://img.shields.io/badge/AI_CAREER_TECH-PRODUCT-D580FF?style=flat-square&labelColor=101014" alt="AI career coaching product"/>
+**AI Career Coaching**
 
-An AI-powered career coaching product focused on helping people prepare for professional opportunities.
+An AI-powered career coaching product designed to help people prepare for professional opportunities.
 
 **Key features**
 - Resume and cover letter assistance
-- AI interview preparation
+- AI-powered interview preparation
 - Job-demand insights
 - Career preparation tools
 
@@ -107,7 +106,7 @@ Next.js · React · Tailwind CSS · Prisma · PostgreSQL · Gemini API
 
 <div align="center">
 
-<a href="https://github.com/Avnit27?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore repositories"/></a>
+[**Explore All My Repositories →**](https://github.com/Avnit27?tab=repositories)
 
 </div>
 
@@ -139,6 +138,8 @@ Next.js · React · Tailwind CSS · Prisma · PostgreSQL · Gemini API
 - **Full-Stack Development:** Improving application development skills.
 - **Product Building:** Combining technology, design, and business thinking.
 
+---
+
 ## 💡 Beyond Code
 
 - **Entrepreneurship:** Building and operating a startup.
@@ -157,13 +158,12 @@ I'm open to connecting with developers, founders, and people building interestin
 
 <br/>
 
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
-<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/Explore_my_work-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111018?style=for-the-badge&logo=linkedin&logoColor=D580FF)](https://www.linkedin.com/in/avnit-singh-b27006209/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-111018?style=for-the-badge&logo=github&logoColor=A3FF12)](https://github.com/Avnit27)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-111018?style=for-the-badge&logo=instagram&logoColor=FF5CE1)](https://www.instagram.com/avnit27/)
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:101F18,50:21113D,100:08080D" width="100%" alt="Decorative footer"/>
-
-<sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP BUILDING.</sub>
+**BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP BUILDING**
 
 </div>
