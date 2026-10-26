@@ -1,23 +1,166 @@
-# 💫 About Me:
-👋 Hi, I'm Avnit Singh, a passionate developer with a love for building creative and impactful solutions.<br>💻 I enjoy working with web Development and constantly explore new technologies.<br>🌱 Currently learning python.<br>🚀 Always open to collaborating on exciting projects and sharing knowledge.<br>📫 Reach me at https://www.linkedin.com/in/avnit-singh-b27006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
 
+<!--
+  AVNIT SINGH — GITHUB PROFILE README
+  Minimal dark aesthetic | GitHub-compatible Markdown
+-->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/avnit27?igsh=MXBiOXgyYzF6Ym41Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avnit-singh-b27006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Avnit27&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avnit27&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# AVNIT SINGH
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Developer · Co-Founder · Builder
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Avnit27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+working+products.;Exploring+Python+and+AI.;Learning%2C+building%2C+and+shipping." alt="Animated developer introduction" />
+
+<br/>
+
+<a href="https://github.com/Avnit27">
+  <img src="https://img.shields.io/badge/GitHub-Avnit27-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/avnit27/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Avnit27&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## About
+
+I'm an Information Technology engineering graduate interested in
+building useful digital products, experimenting with technology,
+and solving real-world problems.
+
+My journey combines software development with entrepreneurship.
+As Co-Founder & COO of **Wurkify**, I've worked on turning an idea
+into an event-staffing business, combining product development,
+operations, and business execution.
+
+- Building and improving web-based products
+- Exploring Python, AI, and automation
+- Interested in full-stack development and product engineering
+- Learning by building projects and solving practical problems
+
+> I enjoy working at the intersection of technology, business, and ideas.
+
+---
+
+## What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-Learning-111827?style=flat-square&logo=python&logoColor=3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+
+</td>
+<td width="50%" valign="top">
+
+### Tools & Design
+
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
+![Adobe](https://img.shields.io/badge/Adobe-111827?style=flat-square&logo=adobe&logoColor=FF0000)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+### Wurkify
+**Event Staffing · Entrepreneurship · Technology**
+
+A startup focused on connecting event organizers with gig workers
+for event staffing requirements.
+
+- Co-founded and helped build the business from the ground up.
+- Worked across operations, coordination, and business execution.
+- Contributed to the web platform using HTML, CSS, JavaScript,
+  PHP, and MySQL.
+
+### SensAI
+**AI Career Coach · Career Technology**
+
+An AI-powered career coaching concept integrated with Wurkify,
+focused on making career preparation more accessible.
+
+- Resume and cover letter assistance
+- AI-powered interview preparation
+- Job-demand insights
+
+### More Projects
+
+Explore my repositories for experiments, learning projects,
+and other work in software development.
+
+<div align="left">
+
+<a href="https://github.com/Avnit27?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avnit27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB" alt="Most used languages"/>
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avnit27&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## Currently Exploring
+
+```text
+Python          → Strengthening programming fundamentals
+AI & Automation → Exploring practical AI-powered solutions
+Web Development → Building better digital experiences
+Product Building → Turning ideas into useful products
+```
+
+---
+
+## Let's Connect
+
+I'm open to connecting with developers, founders, and people
+building interesting products.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-34D399?style=for-the-badge&logo=linkedin&logoColor=111827" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/Avnit27">
+  <img src="https://img.shields.io/badge/GitHub-Follow_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<br/><br/>
+
+<sub>Building consistently. Learning continuously.</sub>
+
+</div>
