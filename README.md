@@ -1,123 +1,14 @@
 
 <!-- ======================================================
-     AVNIT SINGH | PROFESSIONAL CYBERFUNK PROFILE
-     Charcoal / Neon Green / Electric Purple
+     AVNIT SINGH | CYBERFUNK DEVELOPER PROFILE
+     Theme: Charcoal / Neon Green / Electric Purple
      ====================================================== -->
 
 <div align="center">
 
-<div align="center">
-
-<svg width="100%" viewBox="0 0 1000 240"
-     xmlns="http://www.w3.org/2000/svg"
-     role="img"
-     aria-label="Avnit Singh — Software Developer and Product Builder">
-
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#090B10"/>
-      <stop offset="55%" stop-color="#17142B"/>
-      <stop offset="100%" stop-color="#10251C"/>
-    </linearGradient>
-
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#A3FF12"/>
-      <stop offset="100%" stop-color="#D580FF"/>
-    </linearGradient>
-
-    <pattern id="grid" width="32" height="32"
-             patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32"
-            fill="none" stroke="#FFFFFF"
-            stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
-  </defs>
-
-  <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
-  <rect width="1000" height="240" rx="14" fill="url(#grid)"/>
-
-  <path d="M0 20H260L285 45H500"
-        fill="none" stroke="#A3FF12"
-        stroke-opacity="0.65" stroke-width="1.5"/>
-
-  <path d="M1000 40H840L815 65H720"
-        fill="none" stroke="#D580FF"
-        stroke-opacity="0.65" stroke-width="1.5"/>
-
-  <circle cx="895" cy="150" r="100"
-          fill="#A3FF12" opacity="0.035"/>
-  <circle cx="895" cy="150" r="72"
-          fill="none" stroke="#A3FF12"
-          stroke-opacity="0.15"/>
-
-  <g font-family="monospace" font-size="11"
-     letter-spacing="3" fill="#A3FF12">
-    <text x="55" y="48">AVNIT27 / DEVELOPER PROFILE</text>
-    <text x="945" y="48" text-anchor="end"
-          fill="#D580FF">BUILD • LEARN • CREATE</text>
-  </g>
-
-  <text x="55" y="115"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="55" font-weight="800"
-        letter-spacing="1" fill="#F5F5F7">
-    AVNIT <tspan fill="#A3FF12">SINGH</tspan>
-  </text>
-
-  <rect x="57" y="133" width="65" height="3"
-        rx="1.5" fill="url(#neon)"/>
-
-  <text x="55" y="160"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="15" letter-spacing="2.2"
-        fill="#E5E5F0">
-    SOFTWARE DEVELOPER
-  </text>
-
-  <text x="55" y="184"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="12" letter-spacing="1.5"
-        fill="#A9A9BA">
-    CO-FOUNDER &amp; COO  ·  PRODUCT BUILDER
-  </text>
-
-  <g font-family="monospace" font-size="12"
-     fill="#D6D6E0">
-    <text x="55" y="218">JAVA</text>
-    <circle cx="112" cy="214" r="2.5" fill="#A3FF12"/>
-    <text x="128" y="218">WEB DEVELOPMENT</text>
-    <circle cx="278" cy="214" r="2.5" fill="#A3FF12"/>
-    <text x="294" y="218">DATABASES</text>
-    <circle cx="393" cy="214" r="2.5" fill="#D580FF"/>
-    <text x="409" y="218">AI &amp; AUTOMATION</text>
-  </g>
-
-  <g transform="translate(835 95)"
-     fill="none" stroke="#A3FF12"
-     stroke-width="2.5" stroke-linecap="round"
-     stroke-linejoin="round">
-    <path d="M-20 -15L-35 0L-20 15"/>
-    <path d="M20 -15L35 0L20 15"/>
-    <path d="M8 -23L-8 23"/>
-  </g>
-
-  <text x="835" y="137"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10" letter-spacing="2"
-        fill="#D580FF">IDEAS → PRODUCTS</text>
-
-  <path d="M650 240L690 200H1000"
-        fill="none" stroke="#D580FF"
-        stroke-opacity="0.6" stroke-width="1.5"/>
-
-</svg>
-
-</div>
+<img src="assets/banner.svg" width="100%" alt="Avnit Singh — Software Developer, Co-Founder and Product Builder"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=680&height=30&lines=Building+Technology-Driven+Solutions;Java+%7C+Web+Development+%7C+Databases;Exploring+Python%2C+AI+%26+Automation;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
-
-<br/>
 
 <a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
