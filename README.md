@@ -6,130 +6,99 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08080D,45:21113D,100:101F18&text=AVNIT%20SINGH&fontSize=54&fontColor=A3FF12&fontAlignY=38&desc=DEVELOPER%20%2F%20CO-FOUNDER%20%2F%20BUILDER&descSize=14&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:08080D,55:21113D,100:101F18&text=AVNIT%20SINGH&fontSize=48&fontColor=A3FF12&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20CO-FOUNDER%20%7C%20BUILDER&descSize=12&descAlignY=72&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=A3FF12&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+profile...;%3E+Building+digital+experiences;%3E+Exploring+Python+%26+artificial+intelligence;%3E+Turning+ideas+into+real+products" alt="Animated introduction"/>
-
-<br/>
-
-<a href="https://github.com/Avnit27">
-<img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" />
-</a>
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" />
-</a>
-<a href="https://www.instagram.com/avnit27/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Avnit27&style=flat-square&color=A3FF12&label=PROFILE+VISITORS" />
-
-</div>
-
----
-
-<div align="center">
-
-## `01 // WHO AM I?`
-
-**IT ENGINEERING GRADUATE · ENTREPRENEUR · DEVELOPER**
-
-*Curiosity is the source code. Building is the execution.*
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### `> SYSTEM_PROFILE`
-
-Hey, I'm **Avnit Singh** — an Information Technology engineering graduate who enjoys building digital products and exploring how technology can solve real-world problems.
-
-My journey combines web development, startup operations, product thinking, and experimentation with AI.
-
-- Building web-based products and digital experiences.
-- Co-Founder & COO at **Wurkify**.
-- Exploring Python, AI, and automation.
-- Interested in software development and product engineering.
-- Always learning through hands-on projects.
-
-</td>
-<td width="42%" valign="top">
-
-### `> CURRENT_STATUS`
-
-```text
-USER      : AVNIT SINGH
-ROLE      : DEVELOPER
-MODE      : BUILD
-FOCUS     : PYTHON / AI
-INTEREST  : PRODUCT TECH
-MINDSET   : ALWAYS LEARNING
-```
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-A3FF12?style=flat-square&labelColor=101014" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `02 // TECH ARSENAL`
-
-<sub>TOOLS ARE THE WEAPONS. IDEAS ARE THE ADVANTAGE.</sub>
-
-<br/><br/>
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql&theme=dark&perline=6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=28&lines=Java+%7C+Web+Development+%7C+Databases;Exploring+Python+%26+Artificial+Intelligence;Building+Products+That+Solve+Real+Problems" alt="Animated introduction"/>
 
 <br/>
 
-### DESIGN & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,netlify&theme=dark&perline=6" />
+<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/avnit27/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" alt="Instagram"/></a>
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`[ LANGUAGES ]`**
-
-![HTML](https://img.shields.io/badge/HTML5-FF5C35?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-6C63FF?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-9B8AFB?style=flat-square&logo=php&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00C2FF?style=flat-square&logo=mysql&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**`[ CURRENT EXPLORATION ]`**
-
-![Python](https://img.shields.io/badge/Python-LEARNING-A3FF12?style=flat-square&logo=python&logoColor=black)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-EXPLORING-D580FF?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-EXPLORING-FF5CE1?style=flat-square)
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-## `03 // FEATURED PROJECTS`
+<sub>01 / ABOUT ME</sub>
 
-<sub>IDEAS → CODE → PRODUCTS</sub>
+## Software, Startups & Problem-Solving
+
+</div>
+
+I'm an **Information Technology engineering graduate (May 2026)**, developer, and entrepreneur interested in building practical digital products and solving real-world problems through technology.
+
+My technical background includes **Java, object-oriented programming, web development, database management, and full-stack application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
+
+As **Co-Founder & COO of Wurkify**, I've gained hands-on experience in startup operations, product development, event staffing, coordination, and business execution.
+
+I'm also interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EDUCATION-B.E.%20IN%20INFORMATION%20TECHNOLOGY-101014?style=flat-square&labelColor=21113D&color=A3FF12" alt="Education"/>
+<img src="https://img.shields.io/badge/ROLE-CO--FOUNDER%20%26%20COO-101014?style=flat-square&labelColor=21113D&color=D580FF" alt="Role"/>
+<img src="https://img.shields.io/badge/INTERESTS-SOFTWARE%20%7C%20AI%20%7C%20PRODUCTS-101014?style=flat-square&labelColor=21113D&color=FF5CE1" alt="Interests"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>02 / TECH STACK</sub>
+
+## Technologies & Tools
+
+<sub>DEVELOPMENT · DATABASES · FRAMEWORKS · DESIGN</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php&theme=dark&perline=6" alt="Programming languages and web technologies"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,postgres,git,github,figma&theme=dark&perline=8" alt="Frameworks, databases, and tools"/>
+
+</div>
+
+### Languages & Backend
+
+![Java](https://img.shields.io/badge/Java-111018?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111018?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111018?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111018?style=flat-square&logo=php&logoColor=777BB4)
+![OOP](https://img.shields.io/badge/OOP-111018?style=flat-square&logoColor=A3FF12)
+
+### Databases & Java Technologies
+
+![MySQL](https://img.shields.io/badge/MySQL-111018?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111018?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Hibernate](https://img.shields.io/badge/Hibernate-111018?style=flat-square&logo=hibernate&logoColor=59666C)
+![JPA](https://img.shields.io/badge/JPA-111018?style=flat-square&logoColor=A3FF12)
+![Prisma](https://img.shields.io/badge/Prisma-111018?style=flat-square&logo=prisma&logoColor=5A67D8)
+
+### Frameworks, AI & Tools
+
+![React](https://img.shields.io/badge/React-111018?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111018?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111018?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Gemini API](https://img.shields.io/badge/Gemini_API-111018?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Git](https://img.shields.io/badge/Git-111018?style=flat-square&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-111018?style=flat-square&logo=figma&logoColor=F24E1E)
+![Netlify](https://img.shields.io/badge/Netlify-111018?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+---
+
+<div align="center">
+
+<sub>03 / FEATURED PROJECTS</sub>
+
+## Building Real-World Solutions
+
+<sub>FROM IDEAS TO WORKING PRODUCTS</sub>
 
 </div>
 
@@ -137,34 +106,36 @@ MINDSET   : ALWAYS LEARNING
 <tr>
 <td width="50%" valign="top">
 
-### `01. WURKIFY`
+### Wurkify
 
-<img src="https://img.shields.io/badge/STARTUP-EVENT_TECH-A3FF12?style=flat-square&labelColor=101014" />
+<img src="https://img.shields.io/badge/EVENT_STAFFING-STARTUP-A3FF12?style=flat-square&labelColor=101014" alt="Event staffing startup"/>
 
-A startup focused on connecting event organizers with gig workers for event staffing.
+A startup focused on connecting event organizers with gig workers for staffing requirements.
 
-**Focus areas**
-- Staffing coordination and operations
+**My involvement**
+- Co-founder and Chief Operating Officer
+- Business and event operations
+- Worker and organizer coordination
 - Web platform development
-- Business execution and growth
 
-**Stack:** HTML · CSS · JavaScript · PHP · MySQL
+**Technology:** HTML · CSS · JavaScript · PHP · MySQL
 
 </td>
 <td width="50%" valign="top">
 
-### `02. SENSAI`
+### SensAI
 
-<img src="https://img.shields.io/badge/AI-CAREER_TECH-D580FF?style=flat-square&labelColor=101014" />
+<img src="https://img.shields.io/badge/AI_CAREER_TECH-PRODUCT-D580FF?style=flat-square&labelColor=101014" alt="AI career technology"/>
 
-An AI-powered career coaching concept integrated with Wurkify to help users prepare for career opportunities.
+An AI-powered career coaching product designed to make career preparation more accessible.
 
-**Focus areas**
+**Key features**
 - Resume and cover letter assistance
-- AI interview preparation
+- AI-powered interview preparation
 - Job-demand insights
+- Career preparation tools
 
-**Stack:** Next.js · React · Tailwind CSS · PostgreSQL · Gemini
+**Technology:** Next.js · React · Tailwind CSS · Prisma · PostgreSQL · Gemini API
 
 </td>
 </tr>
@@ -172,9 +143,7 @@ An AI-powered career coaching concept integrated with Wurkify to help users prep
 
 <div align="center">
 
-<a href="https://github.com/Avnit27?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-101014?style=for-the-badge&logo=github&logoColor=A3FF12" />
-</a>
+<a href="https://github.com/Avnit27?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore repositories"/></a>
 
 </div>
 
@@ -182,23 +151,19 @@ An AI-powered career coaching concept integrated with Wurkify to help users prep
 
 <div align="center">
 
-## `04 // GITHUB ANALYTICS`
+<sub>04 / GITHUB ANALYTICS</sub>
 
-<sub>THE WORK BEHIND THE PROFILE</sub>
+## Repository Overview
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avnit27&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A3FF12&icon_color=D580FF&text_color=E5E5F0&ring_color=A3FF12" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A3FF12&text_color=E5E5F0" />
+<sub>PUBLIC GITHUB STATISTICS · LANGUAGE DISTRIBUTION</sub>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnit27&theme=dark&hide_border=true&background=0D0D12&ring=A3FF12&fire=FF5CE1&currStreakLabel=A3FF12&sideLabels=D580FF&dates=888899" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avnit27&bg_color=0D0D12&color=A3FF12&line=D580FF&point=FFFFFF&area=true&hide_border=true&custom_title=ACTIVITY%20MATRIX" />
+<a href="https://github.com/Avnit27">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avnit27&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A3FF12&icon_color=D580FF&text_color=E5E5F0&rank_icon=github" alt="GitHub statistics"/>
+</a><a href="https://github.com/Avnit27?tab=repositories">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A3FF12&text_color=E5E5F0&langs_count=8" alt="Most-used programming languages"/>
+</a>
 
 </div>
 
@@ -208,35 +173,36 @@ An AI-powered career coaching concept integrated with Wurkify to help users prep
 <tr>
 <td width="50%" valign="top">
 
-## `05 // NEXT OBJECTIVES`
+<div align="center">
 
-```text
-[ IN PROGRESS ]
-+ Python fundamentals
-+ Better development skills
-+ Practical AI experiments
+<sub>05 / CURRENT LEARNING</sub>
 
-[ LONG-TERM ]
-+ Build useful products
-+ Explore AI-powered tools
-+ Grow as a product engineer
-```
+### Expanding My Skills
+
+</div>
+
+- **Java:** Strengthening OOP, JDBC, Hibernate, and JPA.
+- **Python:** Building programming fundamentals.
+- **AI:** Exploring Gemini-powered applications.
+- **Web development:** Improving full-stack development skills.
+- **Databases:** Practising SQL and relational database concepts.
 
 </td>
 <td width="50%" valign="top">
 
-## `06 // MY PHILOSOPHY`
+<div align="center">
 
-> Build things that solve real problems.
+<sub>06 / BEYOND CODE</sub>
 
-> Stay curious. Keep experimenting.
+### Product & Business
 
-> Learn the fundamentals. Ship the product.
+</div>
 
-<br/>
-
-<img src="https://img.shields.io/badge/CREATIVITY-UNLOCKED-A3FF12?style=flat-square&labelColor=101014" />
-<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-D580FF?style=flat-square&labelColor=101014" />
+- **Entrepreneurship:** Building and operating a startup.
+- **Product thinking:** Turning user needs into practical solutions.
+- **Design:** Figma, Adobe tools, Canva, and presentations.
+- **Operations:** Coordination, planning, and execution.
+- **Continuous learning:** Applying technology to real-world challenges.
 
 </td>
 </tr>
@@ -246,26 +212,25 @@ An AI-powered career coaching concept integrated with Wurkify to help users prep
 
 <div align="center">
 
-## `07 // ESTABLISH CONNECTION`
+<sub>07 / LET'S CONNECT</sub>
 
-**GOT AN IDEA? LET'S BUILD SOMETHING INTERESTING.**
+## Have an Interesting Idea?
 
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" />
-</a>
-
-<a href="https://github.com/Avnit27">
-<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-101014?style=for-the-badge&logo=github&logoColor=A3FF12" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:101F18,50:21113D,100:08080D" />
-
-<sub>DESIGNED IN CURIOSITY · POWERED BY CONSISTENCY</sub>
+I'm open to connecting with developers, founders, and people working on meaningful products.
 
 <br/>
 
-<sub>© AVNIT SINGH · KEEP BUILDING.</sub>
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore my work"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:101F18,50:21113D,100:08080D" alt="Cyberfunk footer"/>
+
+<sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP BUILDING.</sub>
+
+<br/>
+
+<sub>AVNIT SINGH · KEEP BUILDING.</sub>
 
 </div>
