@@ -1,16 +1,14 @@
 
 <!-- ======================================================
      AVNIT SINGH | CYBERFUNK DEVELOPER PROFILE
-     Theme: Neon green / purple / black
+     Theme: Professional cyber / neon green / purple
      ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:08080D,55:21113D,100:101F18&text=AVNIT%20SINGH&fontSize=48&fontColor=A3FF12&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20CO-FOUNDER%20%7C%20BUILDER&descSize=12&descAlignY=72&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=155&color=0:09090F,45:17142B,100:10251C&text=AVNIT%20SINGH&fontSize=42&fontColor=A3FF12&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20CO-FOUNDER%20%26%20COO%20%20%7C%20%20PRODUCT%20BUILDER&descSize=11&descAlignY=66&animation=fadeIn" alt="Avnit Singh professional banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=28&lines=Java+%7C+Web+Development+%7C+Databases;Exploring+Python+%26+Artificial+Intelligence;Building+Products+That+Solve+Real+Problems" alt="Animated introduction"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=28&lines=Java+%7C+Web+Development+%7C+Databases;Exploring+Python+%26+Artificial+Intelligence;Building+Products+That+Solve+Real+Problems" alt="Animated professional introduction"/>
 
 <a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
@@ -28,13 +26,13 @@
 
 </div>
 
-I'm an **Information Technology engineering graduate (May 2026)**, developer, and entrepreneur interested in building practical digital products and solving real-world problems through technology.
+👋 I'm an **Information Technology engineering graduate (May 2026)**, developer, and entrepreneur interested in building practical digital products and solving real-world problems through technology.
 
-My technical background includes **Java, object-oriented programming, web development, database management, and full-stack application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
+💻 My technical background includes **Java, object-oriented programming, web development, database management, and full-stack application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
 
-As **Co-Founder & COO of Wurkify**, I've gained hands-on experience in startup operations, product development, event staffing, coordination, and business execution.
+🚀 As **Co-Founder & COO of Wurkify**, I've gained hands-on experience in startup operations, product development, event staffing, coordination, and business execution.
 
-I'm also interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
+🤖 I'm also interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
 
 <div align="center">
 
@@ -77,7 +75,7 @@ I'm also interested in AI-powered applications, Python, automation, and building
 ![MySQL](https://img.shields.io/badge/MySQL-111018?style=flat-square&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111018?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Hibernate](https://img.shields.io/badge/Hibernate-111018?style=flat-square&logo=hibernate&logoColor=59666C)
-![JPA](https://img.shields.io/badge/JPA-111018?style=flat-square&logoColor=A3FF12)
+![JPA](https://img.shields.io/badge/JPA-111018?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-111018?style=flat-square&logo=prisma&logoColor=5A67D8)
 
 ### Frameworks, AI & Tools
@@ -155,7 +153,7 @@ An AI-powered career coaching product designed to make career preparation more a
 
 ## Repository Overview
 
-<sub>PUBLIC GITHUB STATISTICS · LANGUAGE DISTRIBUTION</sub>
+<sub>STATISTICS · LANGUAGE DISTRIBUTION · CONTRIBUTION STREAK</sub>
 
 <br/><br/>
 
@@ -164,6 +162,10 @@ An AI-powered career coaching product designed to make career preparation more a
 </a><a href="https://github.com/Avnit27?tab=repositories">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A3FF12&text_color=E5E5F0&langs_count=8" alt="Most-used programming languages"/>
 </a>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avnit27&theme=dark&hide_border=true&background=0D0D12&ring=A3FF12&fire=FF5CE1&currStreakLabel=A3FF12&sideLabels=D580FF&dates=888899" alt="GitHub contribution streak"/>
 
 </div>
 
