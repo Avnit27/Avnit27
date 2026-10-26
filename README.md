@@ -1,114 +1,66 @@
 
-<!-- ======================================================
-     AVNIT SINGH | CYBERFUNK DEVELOPER PROFILE
-     Theme: Charcoal / Neon Green / Electric Purple
-     ====================================================== -->
+<!-- =====================================================
+     AVNIT SINGH | PROFESSIONAL CYBERFUNK README
+     No local image files required
+     ===================================================== -->
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Avnit Singh — Software Developer, Co-Founder and Product Builder"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:090B10,50:17142B,100:10251C&text=AVNIT%20SINGH&fontSize=56&fontColor=A3FF12&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20CO-FOUNDER%20%26%20COO%20%7C%20PRODUCT%20BUILDER&descSize=12&descAlignY=75&animation=fadeIn" width="100%" alt="Avnit Singh professional banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=680&height=30&lines=Building+Technology-Driven+Solutions;Java+%7C+Web+Development+%7C+Databases;Exploring+Python%2C+AI+%26+Automation;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
-
-<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/avnit27/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" alt="Instagram"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Avnit27&style=flat-square&color=A3FF12&label=PROFILE+VISITORS" alt="Profile visitors"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>01 / ABOUT ME</sub>
-
-## Software, Startups & Problem-Solving
-
-*Building technology-driven solutions at the intersection of software, business, and innovation.*
-
-</div>
-
-👋 I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), developer, and entrepreneur interested in creating practical digital products and solving real-world problems.
-
-💻 My technical background includes **Java, object-oriented programming, web development, database management, and application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
-
-🚀 As **Co-Founder & COO of Wurkify**, I've gained practical experience in startup operations, product development, event staffing, coordination, and business execution.
-
-🤖 I'm interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
-
-🎨 Beyond coding, I enjoy product thinking, UI/UX design, and using creative tools to communicate ideas effectively.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20IN%20INFORMATION%20TECHNOLOGY-101014?style=flat-square&labelColor=21113D&color=A3FF12" alt="Education"/>
-<img src="https://img.shields.io/badge/ROLE-CO--FOUNDER%20%26%20COO-101014?style=flat-square&labelColor=21113D&color=D580FF" alt="Role"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20PRODUCTS-101014?style=flat-square&labelColor=21113D&color=FF5CE1" alt="Professional focus"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>02 / TECH STACK</sub>
-
-## Technologies & Tools
-
-<sub>DEVELOPMENT · DATABASES · FRAMEWORKS · DESIGN</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php&theme=dark&perline=6" alt="Programming languages and web technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=30&lines=Building+Technology-Driven+Solutions;Java+%7C+Web+Development+%7C+Databases;Exploring+Python%2C+AI+%26+Automation;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,postgres,git,github,figma&theme=dark&perline=8" alt="Frameworks, databases, and tools"/>
+<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GitHub-Avnit27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/avnit27/"><img src="https://img.shields.io/badge/Instagram-Follow-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" alt="Instagram"/></a>
 
 </div>
-
-### Languages & Backend
-
-![Java](https://img.shields.io/badge/Java-111018?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111018?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-111018?style=flat-square&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/HTML5-111018?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111018?style=flat-square&logo=css3&logoColor=1572B6)
-![Python](https://img.shields.io/badge/Python-LEARNING-111018?style=flat-square&logo=python&logoColor=3776AB)
-
-### Databases & Java Technologies
-
-![MySQL](https://img.shields.io/badge/MySQL-111018?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111018?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Hibernate](https://img.shields.io/badge/Hibernate-111018?style=flat-square&logo=hibernate&logoColor=59666C)
-![JPA](https://img.shields.io/badge/JPA-111018?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-111018?style=flat-square&logo=prisma&logoColor=5A67D8)
-
-### Frameworks, AI & Tools
-
-![React](https://img.shields.io/badge/React-111018?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111018?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111018?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Gemini API](https://img.shields.io/badge/Gemini_API-111018?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![Git](https://img.shields.io/badge/Git-111018?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111018?style=flat-square&logo=github&logoColor=A3FF12)
-![Figma](https://img.shields.io/badge/Figma-111018?style=flat-square&logo=figma&logoColor=F24E1E)
-![Netlify](https://img.shields.io/badge/Netlify-111018?style=flat-square&logo=netlify&logoColor=00C7B7)
 
 ---
 
+## 👨‍💻 About Me
+
+I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), developer, and entrepreneur interested in building practical digital products and solving real-world problems.
+
+💻 My technical background includes Java, object-oriented programming, web development, databases, and application development. I've worked with Java and MySQL, explored Hibernate and JPA, and developed web-based products using PHP and modern JavaScript technologies.
+
+🚀 As **Co-Founder & COO of Wurkify**, I've gained hands-on experience in startup operations, product development, event staffing, coordination, and business execution.
+
+🤖 I'm exploring Python, AI-powered applications, and automation while continuing to strengthen my software development skills.
+
+🎨 I also enjoy UI/UX design, creative problem-solving, and turning ideas into useful digital experiences.
+
+---
+
+## ⚡ Technologies & Tools
+
 <div align="center">
 
-<sub>03 / FEATURED PROJECTS</sub>
+**Programming & Web Development**
 
-## Building Real-World Solutions
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php&theme=dark&perline=6" alt="Programming and web development technologies"/>
 
-<sub>FROM IDEAS TO WORKING PRODUCTS</sub>
+**Frameworks, Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mysql,postgres,git,github,figma&theme=dark&perline=8" alt="Frameworks databases and development tools"/>
 
 </div>
+
+**Java & Backend:** Java, OOP, JDBC, Hibernate, JPA, PHP
+
+**Databases:** MySQL, PostgreSQL
+
+**Web Development:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+
+**AI & Product Development:** Google Gemini API, AI-powered applications, automation exploration
+
+**Tools & Design:** Git, GitHub, Figma, Adobe tools, Canva, Netlify
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -120,30 +72,34 @@
 
 A startup focused on connecting event organizers with gig workers for event staffing requirements.
 
-**My involvement**
-- Co-Founder & Chief Operating Officer
+**My contributions**
+- Co-Founder & COO
 - Business and event operations
 - Worker and organizer coordination
 - Web platform development
 
-**Technology:** HTML · CSS · JavaScript · PHP · MySQL
+**Tech stack**
+
+HTML · CSS · JavaScript · PHP · MySQL
 
 </td>
 <td width="50%" valign="top">
 
 ### SensAI
 
-<img src="https://img.shields.io/badge/AI_CAREER_TECH-PRODUCT-D580FF?style=flat-square&labelColor=101014" alt="AI career technology"/>
+<img src="https://img.shields.io/badge/AI_CAREER_TECH-PRODUCT-D580FF?style=flat-square&labelColor=101014" alt="AI career coaching product"/>
 
-An AI-powered career coaching product designed to make career preparation more accessible.
+An AI-powered career coaching product focused on helping people prepare for professional opportunities.
 
 **Key features**
 - Resume and cover letter assistance
-- AI-powered interview preparation
+- AI interview preparation
 - Job-demand insights
 - Career preparation tools
 
-**Technology:** Next.js · React · Tailwind CSS · Prisma · PostgreSQL · Gemini API
+**Tech stack**
+
+Next.js · React · Tailwind CSS · Prisma · PostgreSQL · Gemini API
 
 </td>
 </tr>
@@ -151,26 +107,20 @@ An AI-powered career coaching product designed to make career preparation more a
 
 <div align="center">
 
-<a href="https://github.com/Avnit27?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore repositories"/></a>
+<a href="https://github.com/Avnit27?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore repositories"/></a>
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-
-<sub>04 / GITHUB ANALYTICS</sub>
-
-## Repository Overview
-
-<sub>STATISTICS · LANGUAGE DISTRIBUTION · CONTRIBUTION STREAK</sub>
-
-<br/><br/>
 
 <a href="https://github.com/Avnit27">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avnit27&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A3FF12&icon_color=D580FF&text_color=E5E5F0&rank_icon=github" alt="GitHub statistics"/>
 </a><a href="https://github.com/Avnit27?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A3FF12&text_color=E5E5F0&langs_count=8" alt="Most-used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnit27&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A3FF12&text_color=E5E5F0&langs_count=8" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
@@ -181,68 +131,39 @@ An AI-powered career coaching product designed to make career preparation more a
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<sub>05 / CURRENT LEARNING</sub>
-
-### Expanding My Skills
-
-</div>
+## 🎯 Current Focus
 
 - **Java:** Strengthening OOP, JDBC, Hibernate, and JPA.
 - **Python:** Building programming fundamentals.
-- **AI:** Exploring Gemini-powered applications.
-- **Web development:** Improving full-stack development skills.
-- **Databases:** Practising SQL and relational database concepts.
+- **AI & Automation:** Exploring AI-powered applications and practical automation.
+- **Full-Stack Development:** Improving application development skills.
+- **Product Building:** Combining technology, design, and business thinking.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<sub>06 / BEYOND CODE</sub>
-
-### Product & Business
-
-</div>
+## 💡 Beyond Code
 
 - **Entrepreneurship:** Building and operating a startup.
-- **Product thinking:** Turning user needs into practical solutions.
-- **Design:** Figma, Adobe tools, Canva, and presentations.
+- **Product Thinking:** Translating user needs into practical solutions.
+- **Design:** Figma, Adobe tools, Canva, and presentation design.
 - **Operations:** Coordination, planning, and execution.
-- **Continuous learning:** Applying technology to real-world challenges.
-
-</td>
-</tr>
-</table>
+- **Continuous Learning:** Applying technology to real-world challenges.
 
 ---
 
 <div align="center">
 
-<sub>07 / LET'S CONNECT</sub>
+## 🤝 Let's Connect
 
-## Have an Interesting Idea?
-
-I'm open to connecting with developers, founders, and people working on meaningful products.
+I'm open to connecting with developers, founders, and people building interesting products.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="Explore my work"/></a>
+<a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
+<a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/Explore_my_work-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:101F18,50:21113D,100:08080D" alt="Cyberfunk footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:101F18,50:21113D,100:08080D" width="100%" alt="Decorative footer"/>
 
 <sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · KEEP BUILDING.</sub>
-
-<br/>
-
-<sub>AVNIT SINGH · KEEP BUILDING.</sub>
 
 </div>
