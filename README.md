@@ -1,18 +1,24 @@
 
 <!-- ======================================================
-     AVNIT SINGH | CYBERFUNK DEVELOPER PROFILE
-     Theme: Professional cyber / neon green / purple
+     AVNIT SINGH | PROFESSIONAL CYBERFUNK PROFILE
+     Charcoal / Neon Green / Electric Purple
      ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=155&color=0:09090F,45:17142B,100:10251C&text=AVNIT%20SINGH&fontSize=42&fontColor=A3FF12&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20CO-FOUNDER%20%26%20COO%20%20%7C%20%20PRODUCT%20BUILDER&descSize=11&descAlignY=66&animation=fadeIn" alt="Avnit Singh professional banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:090B10,45:17142B,100:10251C&text=AVNIT%20SINGH&fontSize=62&fontColor=A3FF12&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20CO-FOUNDER%20%26%20COO%20%20%7C%20%20PRODUCT%20BUILDER&descSize=12&descAlignY=75&animation=fadeIn" alt="Avnit Singh — Software Developer, Co-Founder and Product Builder"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=650&height=28&lines=Java+%7C+Web+Development+%7C+Databases;Exploring+Python+%26+Artificial+Intelligence;Building+Products+That+Solve+Real+Problems" alt="Animated professional introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A3FF12&center=true&vCenter=true&width=680&height=30&lines=Building+Technology-Driven+Solutions;Java+%7C+Web+Development+%7C+Databases;Exploring+Python%2C+AI+%26+Automation;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
+
+<br/>
 
 <a href="https://github.com/Avnit27"><img src="https://img.shields.io/badge/GITHUB-AVNIT27-101014?style=for-the-badge&logo=github&logoColor=A3FF12" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/avnit-singh-b27006209/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-101014?style=for-the-badge&logo=linkedin&logoColor=D580FF" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/avnit27/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-101014?style=for-the-badge&logo=instagram&logoColor=FF5CE1" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Avnit27&style=flat-square&color=A3FF12&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
@@ -24,21 +30,25 @@
 
 ## Software, Startups & Problem-Solving
 
+*Building technology-driven solutions at the intersection of software, business, and innovation.*
+
 </div>
 
-👋 I'm an **Information Technology engineering graduate (May 2026)**, developer, and entrepreneur interested in building practical digital products and solving real-world problems through technology.
+👋 I'm **Avnit Singh**, an Information Technology engineering graduate (May 2026), developer, and entrepreneur interested in creating practical digital products and solving real-world problems.
 
-💻 My technical background includes **Java, object-oriented programming, web development, database management, and full-stack application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
+💻 My technical background includes **Java, object-oriented programming, web development, database management, and application development**. I've worked with Java and MySQL, explored Hibernate and JPA, and built web-based products using PHP and modern JavaScript technologies.
 
-🚀 As **Co-Founder & COO of Wurkify**, I've gained hands-on experience in startup operations, product development, event staffing, coordination, and business execution.
+🚀 As **Co-Founder & COO of Wurkify**, I've gained practical experience in startup operations, product development, event staffing, coordination, and business execution.
 
-🤖 I'm also interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
+🤖 I'm interested in AI-powered applications, Python, automation, and building products that combine technology with practical business needs.
+
+🎨 Beyond coding, I enjoy product thinking, UI/UX design, and using creative tools to communicate ideas effectively.
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/EDUCATION-B.E.%20IN%20INFORMATION%20TECHNOLOGY-101014?style=flat-square&labelColor=21113D&color=A3FF12" alt="Education"/>
 <img src="https://img.shields.io/badge/ROLE-CO--FOUNDER%20%26%20COO-101014?style=flat-square&labelColor=21113D&color=D580FF" alt="Role"/>
-<img src="https://img.shields.io/badge/INTERESTS-SOFTWARE%20%7C%20AI%20%7C%20PRODUCTS-101014?style=flat-square&labelColor=21113D&color=FF5CE1" alt="Interests"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20PRODUCTS-101014?style=flat-square&labelColor=21113D&color=FF5CE1" alt="Professional focus"/>
 
 </div>
 
@@ -65,10 +75,11 @@
 ### Languages & Backend
 
 ![Java](https://img.shields.io/badge/Java-111018?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111018?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111018?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-111018?style=flat-square&logo=php&logoColor=777BB4)
-![OOP](https://img.shields.io/badge/OOP-111018?style=flat-square&logoColor=A3FF12)
+![HTML5](https://img.shields.io/badge/HTML5-111018?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111018?style=flat-square&logo=css3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/Python-LEARNING-111018?style=flat-square&logo=python&logoColor=3776AB)
 
 ### Databases & Java Technologies
 
@@ -85,6 +96,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111018?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-111018?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 ![Git](https://img.shields.io/badge/Git-111018?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111018?style=flat-square&logo=github&logoColor=A3FF12)
 ![Figma](https://img.shields.io/badge/Figma-111018?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/Netlify-111018?style=flat-square&logo=netlify&logoColor=00C7B7)
 
@@ -108,10 +120,10 @@
 
 <img src="https://img.shields.io/badge/EVENT_STAFFING-STARTUP-A3FF12?style=flat-square&labelColor=101014" alt="Event staffing startup"/>
 
-A startup focused on connecting event organizers with gig workers for staffing requirements.
+A startup focused on connecting event organizers with gig workers for event staffing requirements.
 
 **My involvement**
-- Co-founder and Chief Operating Officer
+- Co-Founder & Chief Operating Officer
 - Business and event operations
 - Worker and organizer coordination
 - Web platform development
